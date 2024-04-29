@@ -2,3 +2,6 @@
 
 Read me file for odin_recipes project.
 For learning HTML currently
+
+Recipes links from allrecipes website:
+https://www.allrecipes.com/golden-butter-rice-recipe-8599188
